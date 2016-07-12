@@ -1,0 +1,14 @@
+<mvc:View
+		controllerName="com.test.controller.Master"
+		xmlns:mvc="sap.ui.core.mvc"
+		xmlns="sap.m">
+
+	<MessagePage
+			id="page1"
+			title="Test"
+			text="Please select Item"
+			icon="{sap-icon://product}"
+			>
+	</MessagePage>
+
+</mvc:View>

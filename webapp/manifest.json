@@ -106,10 +106,10 @@
 				"name": "master",
 				"pattern": "",
 				"greedy": false,
-				"target": ["master", "init"]
+				"target": ["master", "init", "detail"]
 			}, {
 				"name": "detail",
-				"pattern": "",
+				"pattern": "/a",
 				"greedy": false,
 				"target": ["master", "detail"]
 			}]
